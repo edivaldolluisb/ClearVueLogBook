@@ -1,21 +1,23 @@
-# ![Persona Name](personas/persona1.jpeg)  
-**Name:** [Persona Name]  
-**Age:** [Persona Age]  
-**Occupation:** [Job Title or Role]  
-**Location:** [City, Country]  
+# ![Clara Fonseca](personas/persona1.jpeg)  
+**Name: Clara Fonseca**  
+**Age: 28** 
+**Occupation: Marketing Manager**
+**Location: São Paulo, Brazil** 
+**Service: Blog and Educational Content**
 
 ## Background  
-[Describe the persona's background, including their education, work experience, and any relevant personal history. This should be written as a short, engaging narrative that helps to contextualize the persona.]  
+Universitary biology teacher, 45 years old, interested in learning about new topics related to eye health and trends in glasses.
 
 ## Daily Life  
-[Describe a typical day in their life. What do they do from morning to evening? How do they interact with technology, products, or services? What challenges do they face?]  
+Spends her days in the classroom and conducting research, reads blogs and articles in her free time.
 
 ## Goals & Needs  
-[Explain what the persona wants to achieve in their personal or professional life. What are their aspirations? What problems are they trying to solve?]  
+
+Have access to reliable information about eye health, find style tips to match glasses with different looks.
 
 ## Pain Points & Challenges  
-[Describe the main frustrations, obstacles, or inefficiencies they encounter related to the product or service you are designing for.]  
+Doesn't have time to research different sources, difficulty in finding updated information.
 
 ## Motivation  
 *"Why do they engage with this product or service?"*  
-[Summarize their core motivation in a compelling way. This could be a short paragraph or even a strong, direct quote that captures their drive.]  
+Be able to improve knowledge about eye health and always be updated with the latest trends in glasses.

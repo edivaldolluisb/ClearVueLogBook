@@ -8,9 +8,8 @@ Work carried out by:
 
 **Title of the project**: [Title goes here]
 **Team:**
-- Student 1: [Name and Number] 
-- Student 2; [Name and Number]
-- Student 3: [Name and Number]
+- Student 1: Mateus da Fonte - 106082
+- Student 2; Edivaldo Bonfim - 110124
 
 ---
 # [A. Stage 0 - Planning and Problem Identification](stage0_planning/a_stage_0_planning_problem_identification.md)
