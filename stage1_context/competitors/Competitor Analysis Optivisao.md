@@ -10,10 +10,9 @@
 --- 
 ## Core Functionality 
 
-**Primary Purpose:** Optivisao is an e-commerce and optical services platform, designed to sell glasses, contact lenses and offer eye health consultations, both online and in physical stores.
+**Primary Purpose:** Optivisao is an optical services platform, designed to put glasses for show, contact lenses and offer eye health consultations, both online and in physical stores.
 
 **Key Features:** 
-- Sale of eye products,
 - vision testing services,
 - appointment booking,
 - payment services,
@@ -28,6 +27,7 @@
 - Wide range of eyewear brands and styles, including high-quality and affordable options.
 
 **Limitations/Weaknesses:** 
+- Users cannot buy glasses online. They can only try them on and then purchase them in-store.
 - Limitations on glasses customization (e.g., limited color options or custom styles).
 
 ---
