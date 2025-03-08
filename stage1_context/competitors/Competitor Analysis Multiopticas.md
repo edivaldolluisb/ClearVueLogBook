@@ -15,6 +15,7 @@
 **Key Features:** 
 - Sale of prescription glasses and sunglasses.
 - Sale of contact lenses
+- virtual try-on (augmented reality) for trying on glasses online.
 
 **Unique Selling Points (USPs):** 
 - Strong presence in physical and online stores, offering convenience and personalized support.

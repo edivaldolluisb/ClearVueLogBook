@@ -17,7 +17,6 @@
 - appointment booking,
 - payment services,
 - vision insurance service
-- virtual try-on (augmented reality)
 
 **Unique Selling Points (USPs):** 
 - Combined physical and online store, offering convenience and personalized support.
