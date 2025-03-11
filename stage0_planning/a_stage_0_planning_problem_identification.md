@@ -26,6 +26,8 @@ Online glasses shopping, with the rise of online shopping, the glasses industry 
 
 - Sustainability: Implement programs to recycle and reuse old eyeglasses.
 
+- Add a glass as favorite: Allow users to add a glass as favorite so that they can easily find it later.
+
 # The goal
 [In a short sentence state what is the problem you wish to address]
 
