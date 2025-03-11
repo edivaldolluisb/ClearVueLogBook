@@ -1,0 +1,5 @@
+- git remote add upstream git@github.com:UA-DETI-41549-HumanComputerInteraction/41549_HCI_LogBookTemplate.git # esse passo pode ser saltao se o remote upstream já existir, no no meu caso já existia
+
+- git fetch upstream
+
+- git merge upstream/main main 
