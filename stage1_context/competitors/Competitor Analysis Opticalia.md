@@ -16,6 +16,7 @@
 - vision testing services,
 - appointment booking,
 - buying glasses online,
+- Try-on glasses online,
 
 **Unique Selling Points (USPs):** 
 - Combined physical and online store, offering convenience and personalized support.
