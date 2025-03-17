@@ -138,7 +138,39 @@
 
 ## C.1. Functional requirements
 
+1 - The platform should provide expert-reviewed articles and interactive content about eye health.
+
+2 - The platform should allow users to register for fashion and eyewear-related events.
+
+3 - Franchise opportunities should be clearly listed with application processes.
+
+4 - Users should have a personalized dashboard for tracking their engagement and purchases.
+
+5 - The system should offer an online vision test with instant feedback.
+
+6 - Users should be able to book virtual consultations with eye care specialists.
+
+7 - The platform should provide a virtual try-on feature for glasses.
+
+8 - Users should be able to upload and manage their prescriptions securely.
+
+9 - The system should offer a recycling program for old eyeglasses.
+
+10 - Users should be able to add glasses to their favorites list.
+
+11 - The platform should offer a loyalty program with rewards for engagement.
+
 ## C.2. Non-functional requirements
+
+1 - The platform should be accessible and easy to navigate for users of all ages.
+
+2 - The system should be responsive and work well on mobile devices.
+
+3 - The platform should be secure and protect user data.
+
+4 - The system should be scalable to accommodate growth and new features.
+
+5 - The platform should load quickly and provide a smooth user experience.
 
 ---
 
