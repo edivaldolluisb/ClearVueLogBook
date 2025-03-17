@@ -17,7 +17,7 @@
 
 | Attribute        | Details                                                                        |
 | ---------------- | ------------------------------------------------------------------------------ | -------------------------- |
-| **Photo**        | ![Clara Fonseca                                                                | 1](personas/persona1.jpeg) |
+| **Photo**        | ![Clara Fonseca](personas/persona1.jpeg) |
 | **Name**         | Clara Fonseca                                                                  |
 | **Age**          | 45                                                                             |
 | **Occupation**   | Marketing Manager                                                              |
@@ -35,7 +35,7 @@
 
 | Attribute        | Details                                                                    |
 | ---------------- | -------------------------------------------------------------------------- | -------------------------- |
-| **Photo**        | ![Margarida Martins                                                        | 5](personas/persona1.jpeg) |
+| **Photo**        | ![Margarida Martins](personas/persona1.jpeg) |
 | **Name**         | Margarida Martins                                                          |
 | **Age**          | 38                                                                         |
 | **Occupation**   | Fashion Consultant                                                         |
