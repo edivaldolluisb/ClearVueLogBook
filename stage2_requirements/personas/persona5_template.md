@@ -19,4 +19,5 @@ Face information overload and find truly useful and relevant events.
 
 ## Motivation  
 *"Why do they engage with this product or service?"*  
+Improve knowledge about eye health and share valuable content with clients.
 Offer the best possible service to your customers and always be up to date with the latest trends.
