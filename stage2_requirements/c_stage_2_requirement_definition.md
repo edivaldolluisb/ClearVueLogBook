@@ -17,7 +17,7 @@
 
 | Attribute        | Details                                                                        |
 | ---------------- | ------------------------------------------------------------------------------ |
-| **Photo**        | ![Clara Fonseca\|1](personas/persona1.jpeg)                                     |
+| **Photo**        | ![Clara Fonseca|1](personas/persona1.jpeg)                                     |
 | **Name**         | Clara Fonseca                                                                  |
 | **Age**          | 45                                                                             |
 | **Occupation**   | Marketing Manager                                                              |
@@ -35,7 +35,7 @@
 
 | Attribute        | Details                                                                    |
 | ---------------- | -------------------------------------------------------------------------- |
-| **Photo**        | ![Margarida Martins\|5](personas/persona1.jpeg)                             |
+| **Photo**        | ![Margarida Martins|5](personas/persona1.jpeg)                             |
 | **Name**         | Margarida Martins                                                          |
 | **Age**          | 38                                                                         |
 | **Occupation**   | Fashion Consultant                                                         |
@@ -44,6 +44,24 @@
 | **Pain Points**  | Information overload and find truly useful and relevant events.            |
 | **Motivation**   | Improve knowledge about eye health and share valuable content with clients |
 | **Full Profile** | [📄 Read More](personas/persona5_template.md)                              |
+
+---
+
+## Persona: Francisco Sousa
+
+### Summary
+
+| Attribute        | Details                                                                                  |
+| ---------------- | ---------------------------------------------------------------------------------------- |
+| **Photo**        | ![Francisco Sousa](personas/persona1.jpeg)                                               |
+| **Name**         | Francisco Sousa                                                                          |
+| **Age**          | 27                                                                                       |
+| **Occupation**   | Marketing                                                                                |
+| **Location**     | Viseu, Portugal                                                                          |
+| **Goals**        | Find glasses that complement his personal style and at the same time correct his vision. |
+| **Pain Points**  | Difficulty in finding glasses that are comfortable and stylish.                                                       |
+| **Motivation**   | Be fashionable and improve eye health without compromising style.                                                        |
+| **Full Profile** | [📄 Read More](personas/persona4_template.md)                                            |
 
 ---
 
