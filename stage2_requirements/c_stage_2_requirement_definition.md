@@ -27,7 +27,23 @@
 | **Motivation**   | Improve knowledge about eye health                                             |
 | **Full Profile** | [📄 Read More](personas/persona1_template.md)                                  |
 
+---
 
+## Persona: Margarida Martins
+
+### Summary
+
+| Attribute        | Details                                                                    |
+| ---------------- | -------------------------------------------------------------------------- |
+| **Photo**        | ![Margarida Martins\|5](personas/persona1.jpeg)                             |
+| **Name**         | Margarida Martins                                                          |
+| **Age**          | 38                                                                         |
+| **Occupation**   | Fashion Consultant                                                         |
+| **Location**     | Viseu, Portugal                                                            |
+| **Goals**        | Participate in events and webinars                                         |
+| **Pain Points**  | Information overload and find truly useful and relevant events.            |
+| **Motivation**   | Improve knowledge about eye health and share valuable content with clients |
+| **Full Profile** | [📄 Read More](personas/persona5_template.md)                              |
 
 ---
 
