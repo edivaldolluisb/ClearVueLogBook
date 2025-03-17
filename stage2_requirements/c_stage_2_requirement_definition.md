@@ -16,8 +16,8 @@
 ### Summary
 
 | Attribute        | Details                                                                        |
-| ---------------- | ------------------------------------------------------------------------------ |
-| **Photo**        | ![Clara Fonseca|1](personas/persona1.jpeg)                                     |
+| ---------------- | ------------------------------------------------------------------------------ | -------------------------- |
+| **Photo**        | ![Clara Fonseca                                                                | 1](personas/persona1.jpeg) |
 | **Name**         | Clara Fonseca                                                                  |
 | **Age**          | 45                                                                             |
 | **Occupation**   | Marketing Manager                                                              |
@@ -34,8 +34,8 @@
 ### Summary
 
 | Attribute        | Details                                                                    |
-| ---------------- | -------------------------------------------------------------------------- |
-| **Photo**        | ![Margarida Martins|5](personas/persona1.jpeg)                             |
+| ---------------- | -------------------------------------------------------------------------- | -------------------------- |
+| **Photo**        | ![Margarida Martins                                                        | 5](personas/persona1.jpeg) |
 | **Name**         | Margarida Martins                                                          |
 | **Age**          | 38                                                                         |
 | **Occupation**   | Fashion Consultant                                                         |
@@ -59,9 +59,46 @@
 | **Occupation**   | Marketing                                                                                |
 | **Location**     | Viseu, Portugal                                                                          |
 | **Goals**        | Find glasses that complement his personal style and at the same time correct his vision. |
-| **Pain Points**  | Difficulty in finding glasses that are comfortable and stylish.                                                       |
-| **Motivation**   | Be fashionable and improve eye health without compromising style.                                                        |
+| **Pain Points**  | Difficulty in finding glasses that are comfortable and stylish.                          |
+| **Motivation**   | Be fashionable and improve eye health without compromising style.                        |
 | **Full Profile** | [📄 Read More](personas/persona4_template.md)                                            |
+
+---
+
+## Persona: Maria do Carmo
+
+### Summary
+
+| Attribute        | Details                                                                 |
+| ---------------- | ----------------------------------------------------------------------- |
+| **Photo**        | ![Maria do Carmo](personas/persona1.jpeg)                               |
+| **Name**         | Maria do Carmo                                                          |
+| **Age**          | 40                                                                      |
+| **Occupation**   | Business Owner                                                          |
+| **Location**     | Viseu, Portugal                                                         |
+| **Goals**        | Find a franchise that offers support and has growth potential.          |
+| **Pain Points**  | Find franchises with good support and that are profitable.              |
+| **Motivation**   | Expanding her business portfolio and ensuring a solid financial return. |
+| **Full Profile** | [📄 Read More](personas/persona3_template.md)                           |
+
+---
+
+## Persona: Mario Sacramento
+
+### Summary
+
+| Attribute        | Details                                                             |
+| ---------------- | ------------------------------------------------------------------- |
+| **Photo**        | ![Mario Sacramento](personas/persona1.jpeg)                         |
+| **Name**         | Mario Sacramento                                                    |
+| **Age**          | 30                                                                  |
+| **Occupation**   | Data Analyst                                                        |
+| **Location**     | Recife, Brazil                                                      |
+| **Goals**        | Take vision tests conveniently and quickly, without leaving home.   |
+| **Pain Points**  | Schedule in-person appointments is dificult and takes a lot of time |
+| **Motivation**   | Keep eye health up to date without compromising work routine.       |
+|  |
+| **Full Profile** | [📄 Read More](personas/persona2_template.md)                       |
 
 ---
 
