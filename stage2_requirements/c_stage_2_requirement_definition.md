@@ -122,17 +122,32 @@
 
 # Scenarios
 
-## Scenario 1: Maria goes on a Museum Tour
+## Scenario 1: Clara Fonseca Learns About Eye Health
 
-[Maria had always loved modern art, but she often found museum visits overwhelming—so many exhibits, so much information, and little guidance on where to start. Today, she was visiting a contemporary art museum that had recently introduced an **interactive guide**. ]
+Clara Fonseca was a marketing manager with a busy schedule and a keen interest in health and wellness. She had been experiencing eye strain from long hours of screen time and wanted to learn more about eye health.
 
-[As she entered the museum, Maria received a notification on her phone, reminding her to launch the app. She opened it and was greeted with a personalized welcome screen. The system, aware of her general interests in **digital media and abstract art**, suggested a self-guided tour tailored to her preferences. ]
+One day, Clara came across an online platform that offered expert-reviewed articles and interactive content about eye health. She was impressed by the quality of the information and decided to sign up for the platform.
 
-[Curious, Maria followed the suggested path. As she approached the first painting, the guide vibrated slightly—a prompt that additional content was available. Holding up the guide, she saw an **overlay** appear on the screen, revealing a time-lapse animation of the artist creating the piece. A small **audio clip** played, explaining the artist’s thought process and influences. Maria found this fascinating; it was as if the artwork was coming to life in front of her. ]
+After creating an account, Clara received a personalized dashboard that allowed her to track her engagement with the content. She explored articles about common eye conditions, tips for reducing eye strain, and the latest trends in eyewear.
 
-[As she continued her tour, Maria **bookmarked** her favorite pieces, leaving notes about what she found intriguing. The system, recognizing her engagement, suggested another exhibit nearby featuring similar themes. Midway through her visit, she received a pop-up asking if she’d like a **short quiz** on the artworks she had explored, offering an interactive way to reflect on what she had learned. ]
+Clara also discovered that the platform offered an online vision test with instant feedback. She decided to take the test and was pleased with the detailed results. The platform recommended that she schedule a virtual consultation with an eye care specialist to discuss her results further.
+
 
 ---
+
+## Scenario 2: Maria do Carmo Explores Franchise Opportunities
+
+Maria do Carmo was considering expanding her business portfolio and had been researching franchise opportunities. She had heard about a new eyewear brand that was gaining popularity and decided to explore their franchise program.
+
+She visited the brand’s website and navigated to the franchise section. There, she found detailed information about the company’s history, values, and the support they offered to franchisees. Maria do Carmo was impressed by the transparency and professionalism of the brand and decided to apply for more information.
+
+The application process was straightforward, with a form that asked about her business experience, goals, and financial capacity. Maria do Carmo filled out the form and submitted it online. Within a few days, she received an **email** inviting her to a virtual meeting with the brand’s franchise team.
+
+During the meeting, Maria do Carmo had the opportunity to ask questions, discuss her goals, and learn more about the brand’s vision for expansion. She was pleased with the level of support and guidance offered and decided to move forward with the franchise agreement.
+
+---
+
+
 
 # Requirements
 
