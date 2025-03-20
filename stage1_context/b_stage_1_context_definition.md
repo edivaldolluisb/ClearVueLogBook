@@ -131,28 +131,53 @@ HCI SWOT Analysis (Opticalia)
 
 [What approach was followed to talk with users; what kind of users were considered. What was the goal of the interviews? What were the questions considered?]
 
+We conducted structured interviews with users who have experience purchasing eyewear online. Our goal was to identify:
+
+-   How users search for eyewear online.
+
+-   Common challenges they face.
+
+-   Features they would like to see improved.
+
+**Interview Questions:**
+
+1. Have you purchased eyewear online before? If so, what platform did you use?
+
+2. What was the most difficult part of the process?
+
+3. How did you choose the right glasses for you?
+
+4. Were there any features you found helpful or lacking?
+
 ## B.2b. Results
 
 >     This section tracks all informal user interviews, summarizing key insights and linking to detailed notes for each session.
 
 ### Interview List
 
-| Date       | Participant / Role | Key Insights                                                    | Link to Notes                |     |
-| ---------- | ------------------ | --------------------------------------------------------------- | ---------------------------- | --- |
-| 03-09-2000 | Bob / student      | Does most things on paper and would require a complete solution | [📄 Notes](interview-Bob.md) |     |
-| ...        |                    |                                                                 |                              |     |
+| Date       | Participant / Role | Key Insights                                          | Link to Notes                |     |
+| ---------- | ------------------ | ----------------------------------------------------- | ---------------------------- | --- |
+| 04-03-2025 | student            | Found product filtering useful but checkout confusing | [📄 Notes](interview-Bob.md) |     |
+| 04-03-2025 | student            | Wanted better virtual try-on options                  | [📄 Notes](interview-Bob.md) |     |
+| 04-03-2025 | student            | Struggled with unclear return policies                | [📄 Notes](interview-Bob.md) |     |
+| 04-03-2025 | Bob / student      | Hard to keep/save the recipes                         | [📄 Notes](interview-Bob.md) |     |
+| ...        |                    |                                                       |                              |     |
 
 ### Common Themes & Patterns
 
 -   **Recurring Problems:**
-    -   Issue 1
-    -   Issue 2
+    -   Checkout process is too complicated.
+    -   Lack of clarity on return policies.
+    -   Users want more product customization options.
 -   **Frequently Used Tools:**
-    -   Tool 1
-    -   Tool 2
+    -   Virtual try-on features.
+    -   Product filtering by brand and price.
+    -   Prescription upload and management.
+    -   Wishlist and favorites.
 -   **Desired Features / Solutions:**
-    -   Feature 1
-    -   Feature 2
+    -   Simplified checkout process.
+    -   Clearer return policy information.
+    -   More customization options.   
 
 ---
 
