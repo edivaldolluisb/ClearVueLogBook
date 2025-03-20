@@ -160,7 +160,7 @@ We conducted structured interviews with users who have experience purchasing eye
 | 04-03-2025 | student            | Found product filtering useful but checkout confusing | [📄 Notes](interview-Bob.md) |     |
 | 04-03-2025 | student            | Wanted better virtual try-on options                  | [📄 Notes](interview-Bob.md) |     |
 | 04-03-2025 | student            | Struggled with unclear return policies                | [📄 Notes](interview-Bob.md) |     |
-| 04-03-2025 | Bob / student      | Hard to keep/save the recipes                         | [📄 Notes](interview-Bob.md) |     |
+| 04-03-2025 | student            | Hard to keep/save the recipes                         | [📄 Notes](interview-Bob.md) |     |
 | ...        |                    |                                                       |                              |     |
 
 ### Common Themes & Patterns
@@ -177,7 +177,7 @@ We conducted structured interviews with users who have experience purchasing eye
 -   **Desired Features / Solutions:**
     -   Simplified checkout process.
     -   Clearer return policy information.
-    -   More customization options.   
+    -   More customization options.
 
 ---
 
