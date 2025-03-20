@@ -157,10 +157,10 @@ We conducted structured interviews with users who have experience purchasing eye
 
 | Date       | Participant / Role | Key Insights                                          | Link to Notes                |     |
 | ---------- | ------------------ | ----------------------------------------------------- | ---------------------------- | --- |
-| 04-03-2025 | student            | Found product filtering useful but checkout confusing | [📄 Notes](interview-Bob.md) |     |
-| 04-03-2025 | student            | Wanted better virtual try-on options                  | [📄 Notes](interview-Bob.md) |     |
-| 04-03-2025 | student            | Struggled with unclear return policies                | [📄 Notes](interview-Bob.md) |     |
-| 04-03-2025 | student            | Hard to keep/save the recipes                         | [📄 Notes](interview-Bob.md) |     |
+| 04-03-2025 | student            | Found product filtering useful but checkout confusing | [📄 Notes](interview1.md) |     |
+| 04-03-2025 | student            | Wanted better virtual try-on options                  | [📄 Notes](interview2.md) |     |
+| 04-03-2025 | student            | Struggled with unclear return policies                | [📄 Notes](interview3.md) |     |
+| 04-03-2025 | student            | Hard to keep/save the recipes                         | [📄 Notes](interview-Larissa.md) |     |
 | ...        |                    |                                                       |                              |     |
 
 ### Common Themes & Patterns

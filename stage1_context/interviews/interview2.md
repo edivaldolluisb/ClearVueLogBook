@@ -14,18 +14,18 @@
 ## Task Overview
 
 **What task is the user trying to accomplish?**
-Purchase a new pair of glasses online while ensuring a good fit and style.
+Finding a stylish and professional pair of glasses online with confidence in their fit.
 
 **What are the main pain points or difficulties they experience?**
 
--   Complicated checkout process.
--   Difficulty in understanding return policies.
--   Limited virtual try-on features.
+-   Lack of confidence in online purchases due to limited try-on options.
+-   Uncertainty about frame sizes matching their face.
+-   Not enough visual examples of people wearing the glasses.
 
 **Are there any workarounds or strategies they currently use?**
 
--   Reads multiple customer reviews before purchasing.
--   Prefers to buy in-store if unsure about fit.
+-   Visits physical stores first to try frames before purchasing online.
+-   Compares multiple websites for best prices.
 
 ---
 
@@ -33,19 +33,18 @@ Purchase a new pair of glasses online while ensuring a good fit and style.
 
 **What tools or methods does the user currently rely on?**
 
--   Virtual try-on features.
--   Product filtering by brand and price.
 -   Customer reviews.
+-   Filtering options by frame size, color, and material.
 
 **Are there any frustrations or limitations with these tools?**
 
--   Virtual try-on does not always reflect real-life fit.
--   Some product descriptions lack key details.
+-   Filters sometimes exclude options unnecessarily.
+-   Images do not always show real-life fit.
 
 **What features do they wish these tools had?**
 
--   More detailed return policies displayed clearly.
--   Improved accuracy in virtual try-on.
+-   AI-driven recommendations for face shape.
+-   More user-generated photos with different face types.
 
 ---
 
@@ -53,21 +52,20 @@ Purchase a new pair of glasses online while ensuring a good fit and style.
 
 **What would an ideal solution look like for them?**
 
--   A streamlined checkout process.
--   Clear return policies presented upfront.
--   AI-powered recommendations based on face shape.
+-   A face-scanning tool to recommend best frame styles.
+-   More customer-submitted photos with different face shapes.
 
 **What concerns or hesitations do they have about new approaches?**
 
--   Worries about difficulty in returning purchased glasses.
+-   Worries about privacy when using face-scanning tools.
+-   Concerned about returns being time-consuming.
 
 **How do they measure success for completing the task efficiently?**
 
--   Smooth, hassle-free purchase process.
--   Receiving a product that meets expectations in style and fit.
+-   Finding a well-fitting frame quickly without returns.
 
 ---
 
 ## Additional Observations
 
--   Prefers buying in-store for first-time purchases but open to online for repeat orders.
+-   Open to trying AI recommendations but skeptical about accuracy.
