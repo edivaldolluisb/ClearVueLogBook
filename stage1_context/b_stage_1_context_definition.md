@@ -169,15 +169,20 @@ We conducted structured interviews with users who have experience purchasing eye
     -   Checkout process is too complicated.
     -   Lack of clarity on return policies.
     -   Users want more product customization options.
+    -   Difficulty scheduling eye exams online.
+    -   Importance of detailed images and customer reviews.
+    -   Preference for testing glasses before purchase.
 -   **Frequently Used Tools:**
     -   Virtual try-on features.
     -   Product filtering by brand and price.
     -   Prescription upload and management.
     -   Wishlist and favorites.
+    -   Customer reviews and ratings.
 -   **Desired Features / Solutions:**
     -   Simplified checkout process.
     -   Clearer return policy information.
     -   More customization options.
+    -   Ability to schedule eye exams online.
 
 ---
 
