@@ -10,12 +10,10 @@
 
 ## B.1a. Competitors
 
-| **Competitor**    | **Description**                             | Information repository                                                            |
-| ----------------- | ------------------------------------------- | --------------------------------------------------------------------------------- | ----------------------------------- |
-| <!--              | [Amazon Shoes]                              | [Online platform selling shoe laces]                                              | [[Competitor Analysis AmazonShoes]] |
-| [Fnac Atacadores] | [Smartphone app to buy and sell shoe laces] |                                                                                   | -->                                 |
-| Opticalia         | Online eyewears platform                    | [Opticalia_evaluation_workbook](competitors/Competitor%20Analysis%20Opticalia.md) |
-| Multioticas       | Online eyewears platform                    | [Opticalia_evaluation_workbook](competitors/Competitor%20Analysis%20Opticalia.md) |
+| **Competitor** | **Description**          | Information repository                                                            |
+| -------------- | ------------------------ | --------------------------------------------------------------------------------- |
+| Opticalia      | Online eyewears platform | [Opticalia_evaluation_workbook](competitors/Competitor%20Analysis%20Opticalia.md) |
+| Multioticas    | Online eyewears platform | [Opticalia_evaluation_workbook](competitors/Competitor%20Analysis%20Opticalia.md) |
 
 ## B.1b. Detailed Competitor Analysis
 
@@ -23,12 +21,23 @@
 
 ### - Heuristic Evaluation
 
-Me and my mate we've selected Opticalia as our main competitor, And we have used Nielsen Norman Method
+Me and my mate we've selected Opticalia as our main competitor, And we have used Nielsen Norman Method.
 
 #### Method
 
 [ Describe the method used for the heuristic evaluation: procedure, number of experts, heuristics, severity scale considered, how was consensus done.]
 
+ We conducted a heuristic evaluation following the Nielsen Norman Method. The process involved:
+
+- Procedure: Each evaluator independently analyzed the Opticalia platform.
+
+- Number of Experts: 2 experts.
+
+- Heuristics Used: Nielsen’s 10 Usability Heuristics.
+
+- Severity Scale: We assigned severity scores from 0 (no issue) to 4 (usability catastrophe).
+
+- Consensus: After individual assessments, a meeting was held to discuss and agree on the severity of issues.
 
 #### Individual Evaluations
 

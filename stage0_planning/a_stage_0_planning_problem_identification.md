@@ -9,7 +9,7 @@
 # Context
 
 [What is the context for your work. What area of application. It can be travelling, pet treatment, shopping. State the overall context and why it is interesting to think about it.]
-Online glasses shopping, with the rise of online shopping, the glasses industry has also moved online. This has made it easier for people to buy glasses from the comfort of their homes. We have taken a case of a user who wants to build a online glasses shopping website for their business.
+Online glasses shopping, with the rise of online shopping, the glasses industry has also moved online. This has made it easier for people to buy glasses from the comfort of their homes. We have taken a case of a user who wants to build an online glasses shopping website for their business.
 
 # Challenges
 
