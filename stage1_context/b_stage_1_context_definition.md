@@ -27,17 +27,17 @@ Me and my mate we've selected Opticalia as our main competitor, And we have used
 
 [ Describe the method used for the heuristic evaluation: procedure, number of experts, heuristics, severity scale considered, how was consensus done.]
 
- We conducted a heuristic evaluation following the Nielsen Norman Method. The process involved:
+We conducted a heuristic evaluation following the Nielsen Norman Method. The process involved:
 
-- Procedure: Each evaluator independently analyzed the Opticalia platform.
+-   Procedure: Each evaluator independently analyzed the Opticalia platform.
 
-- Number of Experts: 2 experts.
+-   Number of Experts: 2 experts.
 
-- Heuristics Used: Nielsen’s 10 Usability Heuristics.
+-   Heuristics Used: Nielsen’s 10 Usability Heuristics.
 
-- Severity Scale: We assigned severity scores from 0 (no issue) to 4 (usability catastrophe).
+-   Severity Scale: We assigned severity scores from 0 (no issue) to 4 (usability catastrophe).
 
-- Consensus: After individual assessments, a meeting was held to discuss and agree on the severity of issues.
+-   Consensus: After individual assessments, a meeting was held to discuss and agree on the severity of issues.
 
 #### Individual Evaluations
 
@@ -45,7 +45,7 @@ Me and my mate we've selected Opticalia as our main competitor, And we have used
 
 -   [expert1_heuristic_evaluation_workbook](heuristic_evaluations/expert1_heuristic_evaluation_Opticalia.md)
 
--   [expert2_heuristic_evaluation_workbook](heuristic_evaluations/expert2_heuristic_evaluation_Multiopticas.md)
+-   [expert2_heuristic_evaluation_workbook](heuristic_evaluations/expert2_heuristic_evaluation_Opticalia.md)
 
 <!-- - [expert3_heuristic_evaluation_workbook](heuristic_evaluations/expert3_heuristic_evaluation_workbook.md) -->
 
@@ -53,11 +53,11 @@ Me and my mate we've selected Opticalia as our main competitor, And we have used
 
 >     After the individual analysis by each expert, all results should be gathered in a consensus table. If an expert has not found any of the problems found by other experts, they should analyse it, at this point, and give it a severity.
 
-| **Issue**       | **Expert 1** | Expert 2 | Expert 3 | Recommendations                             |
-| --------------- | ------------ | -------- | -------- | ------------------------------------------- |
-| Something wrong | 3            | 1        | 0        | Something could be done to the button to... |
-| Another thing   | 4            | 3        | 4        | Other thing to recommend                    |
-| ...             |              |          |          |                                             |
+| **Issue**                         | **Expert 1** | Expert 2 | Recommendations                                 |
+| --------------------------------- | ------------ | -------- | ----------------------------------------------- |
+| Confusing navigation structure    | 3            | 1        | Improve menu clarity and add a site map.        |
+| Lack of feedback on button clicks | 2            | 3        | Use visual and audio cues for user interaction. |
+| Complex checkout process          | 4            |          | Simplify steps and add progress indicators.     |
 
 ---
 
@@ -66,39 +66,60 @@ Me and my mate we've selected Opticalia as our main competitor, And we have used
 #### Method
 
 [Briefly described the method you used for the Cognitive Walkthrough analysis. ]
+The cognitive walkthrough focused on evaluating how a first-time user would interact with Opticalia’s platform. We analyzed the ease of learning and completing common tasks.
 
 #### Task Selection and Task Analysis
 
 [Which tasks did you select and why. What are the subtasks entailed for each ]
 
-| Task                        | Subtasks                               |
-| --------------------------- | -------------------------------------- |
-| **1. Buyng a grammar book** | Search for available grammar books     |
-|                             | Identify a specific book from the list |
-|                             | Add the selected book to the cart      |
-|                             | Proceeed to checkout                   |
+| Task                            | Subtasks                            |
+| ------------------------------- | ----------------------------------- |
+| **1. Buying a pair of glasses** | Search for available models         |
+|                                 | Filter by price and brand           |
+|                                 | Select a pair of glasses            |
+|                                 | Add to cart and proceed to checkout |
 
-| Task                          | Subtasks                                |
+<!-- | Task                          | Subtasks                                |
 | ----------------------------- | --------------------------------------- |
 | **1. Booking a train ticket** | Select departure and destination cities |
 |                               | Choose travel date and time             |
 |                               | Pick a seat (if applicable)             |
-|                               | Confirm booking and make payment        |
+|                               | Confirm booking and make payment        | -->
 
 #### Results
 
 Task: [This is the task]
 
-| Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
-| ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
-| 1      | [Step 1 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 1]              |     |
-| 2      | [Step 2 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 2]              |     |
-| 3      | [Step 3 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 3]              |     |
-| ...    | [Further steps]        | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestions]               |     |
+| Step # | Task/Action to Perform  | Will User Know What to do at this step? (Yes/No) | Notes               | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes                  | Is Action Successful? (Yes/No) | Suggestions for Improvement  |     |
+| ------ | ----------------------- | ------------------------------------------------ | ------------------- | ----------------------------------------------------------------------------------------- | ---------------------- | ------------------------------ | ---------------------------- | --- |
+| 1      | Search for glasses      | Yes                                              |                     | Yes                                                                                       |                        | Yes                            | Improve search filtering     |     |
+| 2      | Select a specific model | Yes                                              |                     | Yes                                                                                       |                        | Yes                            | Display more product details |     |
+| 3      | Add to cart             | Yes                                              |                     | Yes                                                                                       |                        | Yes                            | Highlight added items        |     |
+| 4      | Checkout process        | No                                               | Confusing interface | No                                                                                        | Users may abandon cart | No                             | Streamline checkout          |     |
 
 ## B.1c. Overall Analysis
 
 [Here, you should summarize the main findings for the competitor panorama, listing key points that are valuable to inform the design of your solution, and also make an HCI SWOT analysis for the main competitor, taking into consideration what you learned from the heuristic evaluatio, cognitive walkthrough, online reviews, user feedback, etc.]
+
+Main Findings:
+
+-   Opticalia has a well-structured product catalog but struggles with usability in checkout.
+
+-   Users often experience frustration due to unclear navigation.
+
+-   Improvements in feedback mechanisms could enhance the user experience.
+
+HCI SWOT Analysis (Opticalia)
+
+| Strengths                               | Weaknesses                                   |
+| --------------------------------------- | -------------------------------------------- |
+| Strong product catalog                  | Confusing navigation                         |
+| Clear product images and details        | Lack of interactive feedback                 |
+| Established brand recognition           | Checkout process is too complex              |
+| Opportunities                           | Threats                                      |
+| Improve user experience to gain an edge | Competitors have more intuitive interfaces   |
+| Integrate AI recommendations            | Users may switch to more user-friendly sites |
+| Optimize for mobile experience          | High cart abandonment rates                  |
 
 ---
 
