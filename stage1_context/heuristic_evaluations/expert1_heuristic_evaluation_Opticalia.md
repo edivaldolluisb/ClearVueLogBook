@@ -102,7 +102,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | **Issue**                                                        | **Severity** | Recommendation                                                                                    |
 | ---------------------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------- |
 | Interface pode ser confusa devido a problemas de funcionalidade. | 2            | Simplificar a interface e garantir que todas as funcionalidades estejam funcionando corretamente. |
-|  |
+|                                                                  |
 
 # 9 Help Users Recognize, Diagnose, and Recover from Errors
 
@@ -113,7 +113,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | **Issue**                                                                | **Severity** | Recommendation                                                                 |
 | ------------------------------------------------------------------------ | ------------ | ------------------------------------------------------------------------------ |
 | Falta de mensagens de erro claras ao tentar adicionar itens ao carrinho. | 4            | Fornecer mensagens de erro específicas e orientações para resolver o problema. |
-|  |
+|                                                                          |
 
 # 10 Help and Documentation
 
@@ -124,5 +124,5 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | **Issue**                                                 | **Severity** | Recommendation                                                    |
 | --------------------------------------------------------- | ------------ | ----------------------------------------------------------------- |
 | Falta de suporte contextual durante o processo de compra. | 3            | Adicionar uma seção de ajuda ou FAQ acessível durante o checkout. |
-|  |
+|                                                           |
 | Another thing                                             | 4            |                                                                   |
