@@ -187,6 +187,14 @@ During the meeting, Maria do Carmo had the opportunity to ask questions, discuss
 
 5 - The platform should load quickly and provide a smooth user experience.
 
+
+## Technologies
+
+- **Frontend**: React.js, Next.js, Tailwind CSS
+- **Backend**: Python, Flask
+- **Database**: PostgreSQL - Neon
+
+
 ---
 
 [Back to main Logbook Page](hci_logbook.md)
