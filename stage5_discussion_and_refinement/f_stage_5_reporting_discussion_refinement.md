@@ -15,6 +15,37 @@
 
 # Refined Prototype
 
+## Home Page
+![alt text](Home.png)
+## Favorites
+![alt text](favorites.png) 
+## Products
+![alt text](products.png)
+![alt text](productID.png)
+![alt text](testProduct.png)
+## Blog
+ ![alt text](blog.png)
+ ![alt text](BlogID.png)
+## Events
+![alt text](events.png)
+![alt text](eventID.png)
+## Sustentability
+![alt text](sustentability.png)
+## Appointments
+![alt text](appointments.png)
+
+## Cart
+![alt text](cart.png)
+![alt text](cart2infos.png)
+![alt text](cart3methods.png)
+![alt text](cart3.png) 
+![alt text](cart4review.png)
+![alt text](cart5finish.png)
+ 
+## Quick vision test 
+![alt text](test1.png)
+![alt text](test2.png)
+![alt text](test3.png) 
 
 ---
 [Back to main Logbook Page](../hci_logbook.md)
