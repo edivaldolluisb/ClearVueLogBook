@@ -47,6 +47,11 @@
 ![alt text](test2.png)
 ![alt text](test3.png) 
 
+## Login and Register
+![alt text](register.png) 
+![alt text](login.png)
+
+
 ---
 [Back to main Logbook Page](../hci_logbook.md)
 
